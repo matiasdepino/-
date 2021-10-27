@@ -18,3 +18,4 @@ color_fondo =(blue, red, green)
 title = input("Asignar titulo:")
 main2 (size, title, color_fondo)
 
+
